@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /
-Allow: /cpe/
+Disallow: /9-profile-card-component-main/
+Disallow: /qr-code-component/
+Disallow: /1P-skilled-elearning-landing-page/
 Sitemap: https://daviddelannoydeveloppement.github.io/cpe/sitemap.xml
